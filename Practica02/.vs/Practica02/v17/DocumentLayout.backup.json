@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_02\\Practica02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica02.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_02\\practica02\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica02.csproj|solutionrelative:controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica02.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_02\\practica02\\implementations\\applicationrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica02.csproj|solutionrelative:implementations\\applicationrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica02.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_02\\practica02\\contracts\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica02.csproj|solutionrelative:contracts\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica02.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_02\\practica02\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica02.csproj|solutionrelative:models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_02\\Practica02\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_02\\Practica02\\Controllers\\ArticuloController.cs*",
+              "RelativeToolTip": "Controllers\\ArticuloController.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wCEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:39:49.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_02\\Practica02\\Implementations\\ApplicationRepositoryADO.cs",
+              "RelativeDocumentMoniker": "Implementations\\ApplicationRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_02\\Practica02\\Implementations\\ApplicationRepositoryADO.cs",
+              "RelativeToolTip": "Implementations\\ApplicationRepositoryADO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:36:54.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_02\\Practica02\\Contracts\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Contracts\\IApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_02\\Practica02\\Contracts\\IApplicationRepository.cs",
+              "RelativeToolTip": "Contracts\\IApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:17:35.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_02\\Practica02\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "Models\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_02\\Practica02\\Models\\Articulo.cs",
+              "RelativeToolTip": "Models\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:14:15.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
